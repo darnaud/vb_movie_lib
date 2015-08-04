@@ -1,0 +1,11 @@
+C:\Users\Arnaud\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+C:\Users\Arnaud\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+C:\Users\Arnaud\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+C:\Users\Arnaud\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+C:\Users\Arnaud\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Cynaps.resources
+C:\Users\Arnaud\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.AjoutEditionFilm.resources
+C:\Users\Arnaud\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+C:\Users\Arnaud\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+C:\Users\Arnaud\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\Arnaud\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\Arnaud\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
